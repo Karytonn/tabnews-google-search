@@ -1,5 +1,7 @@
 
 # TabNews Google Search
+
+![TabNews Google Search](https://raw.githubusercontent.com/Karytonn/tabnews-google-search/main/src/cover-readme.jpg)
  
 Que o TabNews é massa nós já sabemos, mas para ficar ainda melhor criamos um mecanismo temporário de busca.
  
