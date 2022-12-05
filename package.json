@@ -1,0 +1,17 @@
+{
+  "name": "tabnews-google-search",
+  "version": "0.0.1",
+  "author": "Karytonn DEV",
+  "license": "ISC",
+  "scripts": {
+    "dev": "postcss styles/main.css -o src/main.css"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "autoprefixer": "^10.4.13",
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "postcss-cli": "^10.1.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TabNews Google Search",
+  "description": "A simple search for the TabNews",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["scripting"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
