@@ -30,7 +30,7 @@ npm run dev
     
 3 - Pronto, agora você pode abrir o arquivo `index.html` utilizando um Live Server de sua preferência.
 
-## Feedback
+## 🙏🏼 Feedback
 
 Se você tiver algum feedback, por favor me deixe saber por meio de contato@karytonn.dev
 
