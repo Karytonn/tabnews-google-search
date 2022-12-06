@@ -3,18 +3,18 @@
 
 ![TabNews Google Search](https://raw.githubusercontent.com/Karytonn/tabnews-google-search/main/src/cover-readme.jpg)
  
-Que o TabNews é massa nós já sabemos, mas para ficar ainda melhor criamos um mecanismo temporário de busca.
+Que o TabNews é massa nós já sabemos, mas para ficar ainda melhor criamos um mecanismo temporário de pesquisa.
  
 Desenvolvemos uma simples extensão no Google Chrome e no link abaixo você tem acesso oficial por meio do **Chrome Web Store**
  
-`EXTENSÃO:`[TabNews Google Search](https://karytonn.dev/bio)
+`EXTENSÃO:`[TabNews Google Search](https://chrome.google.com/webstore/detail/tabnews-google-search/mdmnecmcjnlonddbfdhmgcfaggbpdgah)
  
 Se quer saber mais sobre como utilizar extensão, [acesse nosso post lá no TabNews](https://post-no-tab-news)
 ## Quer contribuir melhorando a extensão?
 
 Sinta-se convidado a fazer um pull request que o mais rápido possível vou analisar e aplicar as melhorias.
  
-Antes de qualquer sugestão, esteja ciente sobre as diretrizes do Google quanto a utilização de recursos específicos dentro de extensões.
+***Antes de qualquer sugestão, esteja ciente sobre as diretrizes do Google quanto a utilização de recursos específicos dentro de extensões.***
 
 ### Execute o projeto localmente
  
