@@ -9,7 +9,7 @@ Desenvolvemos uma simples extensão no Google Chrome e no link abaixo você tem 
  
 `EXTENSÃO:`[TabNews Google Search](https://chrome.google.com/webstore/detail/tabnews-google-search/mdmnecmcjnlonddbfdhmgcfaggbpdgah)
  
-Se quer saber mais sobre como utilizar extensão, [acesse nosso post lá no TabNews]([https://post-no-tab-news](https://www.tabnews.com.br/karytonn/extensao-de-pesquisa-para-o-tabnews)
+Se quer saber mais sobre como utilizar extensão, [acesse nosso post lá no TabNews](https://www.tabnews.com.br/karytonn/extensao-de-pesquisa-para-o-tabnews)
 ## Quer contribuir melhorando a extensão?
 
 Sinta-se convidado a fazer um pull request que o mais rápido possível vou analisar e aplicar as melhorias.
