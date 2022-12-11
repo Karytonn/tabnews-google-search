@@ -1,9 +1,8 @@
 {
   "name": "TabNews Google Search",
   "description": "A simple search for the TabNews",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "manifest_version": 3,
-  "permissions": ["scripting"],
   "action": {
     "default_popup": "index.html",
     "default_icon": "icon48.png"
