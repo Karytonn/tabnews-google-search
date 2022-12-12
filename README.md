@@ -5,9 +5,10 @@
  
 Que o TabNews é massa nós já sabemos, mas para ficar ainda melhor criamos um mecanismo temporário de pesquisa.
  
-Desenvolvemos uma simples extensão no Google Chrome e no link abaixo você tem acesso oficial por meio do **Chrome Web Store**
+Desenvolvemos uma simples extensão e no link abaixo você tem acesso oficial por meio do **Chrome Web Store** ou **Firefox Browser ADD-ONS**
  
-`EXTENSÃO:`[TabNews Google Search](https://chrome.google.com/webstore/detail/tabnews-google-search/mdmnecmcjnlonddbfdhmgcfaggbpdgah)
+- **Google Chrome** [TabNews Google Search](https://chrome.google.com/webstore/detail/tabnews-google-search/mdmnecmcjnlonddbfdhmgcfaggbpdgah)
+- **Firefox** [TabNews Google Search](https://addons.mozilla.org/pt-BR/firefox/addon/tabnews-google-search/)
  
 Se quer saber mais sobre como utilizar extensão, [acesse nosso post lá no TabNews](https://www.tabnews.com.br/karytonn/extensao-de-pesquisa-para-o-tabnews)
 ## Quer contribuir melhorando a extensão?
