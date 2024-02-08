@@ -141,6 +141,6 @@ Analista de Sistemas, Desenvolvedor Web, Design Gráfico, Técnico em Eletrônic
 
 Meu propósito profissional é levar tecnologia a pequenos e médios negócio, entregando soluções que agregue valor e gere resultados qualitativos.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://karytonn.dev/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bio.karytonn.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karytonn/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karytonn/)
